@@ -20,9 +20,9 @@ if(instance_exists(oPlayer)){
 	direction = point_direction(x,y,_alvo.x,_alvo.y);
 	speed = velocidade
 	
-	if(vida >= 3500){
+	if(vida >= 4620){
 	sprite_index = sBossAnda
-	}else if (vida< 3500){
+	}else if (vida< 4620){
 	sprite_index = sBossQuebradoAnda
 		speed = velocidadeForte
 	} else{

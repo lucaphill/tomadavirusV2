@@ -21,6 +21,7 @@ function scr_boss_ataque1(){
 		_inst.direction = _dir
 		
 		_dir +=36;
+		
 	}
 }
 
